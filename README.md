@@ -22,12 +22,19 @@ Below are the only official links for Novoos, please be vigilant of fraud and pr
 🐦 **[Twitter](https://twitter.com/Novotoken)**
 
 🎮 **[Discord](https://discord.gg/DMQTP4fjEe)**
+
 📖 **[Medium](https://novoos.medium.com/)**
+
 📱 **[Telegram](https://t.me/novoosecosystem)**
+
 📢 **[Telegram Channel](https://t.me/Novoosannouncements)**
+
 🧭 **[Facebook](https://facebook.com/NovoosToken)**
+
 🎥 **[YouTube](https://www.youtube.com/channel/UCqzL-TJnnyjcUF8Fk03XH3w)**
+
 🔖 **[Reddit](https://www.reddit.com/user/NovoosToken)**
+
 
 
 <!--
