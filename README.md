@@ -38,9 +38,13 @@ Below are the only official links for Novoos, please be vigilant of fraud and pr
 ## Emails
 
 novooscoin@gmail.com
+
 contact@novoos.net
+
 partnerships@novoos.net
+
 team@novoos.net
+
 
 <!--
 **Novoos/Novoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
