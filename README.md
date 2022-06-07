@@ -55,6 +55,10 @@ team@novoos.net
 
 **[wNOVO - Wrapping](https://stake.novoos.net)**
 
+*NovoPad* - **[Learn More](https://docs.novoos.net/novopad/next-gen-launchpad)**
+
+>  Version 1.0 of NovoPad will be released in June
+
 <!--
 **Novoos/Novoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
