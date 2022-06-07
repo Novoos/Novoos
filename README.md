@@ -1,5 +1,7 @@
 # Novoos Ecosystem
 
+![NOVOOS](https://1671549122-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FDEafHmUAhvGQY9oKaNWy%2Fuploads%2Fm0zwfvItlrnrQnJy8da9%2Fnovoos-fundamentals.jpg?alt=media&token=94299fe8-aa70-495d-a349-7fbd9d7f4fb2)
+
 ## About
 Novoos is releasing several Branches within its ecosystem, the first is **[NovoPad](https://docs.novoos.net/novopad/next-gen-launchpad)**, the next generation of launchpads.
 
