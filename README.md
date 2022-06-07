@@ -9,6 +9,20 @@ $NOVO will also be changing the way individuals socialize online, the Novoos pro
 
 Additionally, the ecosystem will initially consist of several components to compile true freedom and secure platforms which combine unique and essential modules as the driving force for $NOVO with continuous growth.
 
+# dApps Live
+
+**[BUSD Rewards Dashboard](https://busd.novoos.net)**
+
+**[Stake Dashboard](https://stake.novoos.net)**
+
+**[Novoos Jackpot](https://stake.novoos.net)**
+
+**[wNOVO - Wrapping](https://stake.novoos.net)**
+
+*NovoPad* - **[Learn More](https://docs.novoos.net/novopad/next-gen-launchpad)**
+
+>  Version 1.0 of NovoPad will be released in June
+
 # Connect with Novoos
 
 ## Website
@@ -44,20 +58,6 @@ contact@novoos.net
 partnerships@novoos.net
 
 team@novoos.net
-
-# dApps Live
-
-**[BUSD Rewards Dashboard](https://busd.novoos.net)**
-
-**[Stake Dashboard](https://stake.novoos.net)**
-
-**[Novoos Jackpot](https://stake.novoos.net)**
-
-**[wNOVO - Wrapping](https://stake.novoos.net)**
-
-*NovoPad* - **[Learn More](https://docs.novoos.net/novopad/next-gen-launchpad)**
-
->  Version 1.0 of NovoPad will be released in June
 
 <!--
 **Novoos/Novoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
