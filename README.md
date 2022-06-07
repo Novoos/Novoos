@@ -20,6 +20,7 @@ Additionally, the ecosystem will initially consist of several components to comp
 Below are the only official links for Novoos, please be vigilant of fraud and protect yourself by acquiring our links from trusted sources here:
 
 🐦 **[Twitter](https://twitter.com/Novotoken)**
+
 🎮 **[Discord](https://discord.gg/DMQTP4fjEe)**
 📖 **[Medium](https://novoos.medium.com/)**
 📱 **[Telegram](https://t.me/novoosecosystem)**
