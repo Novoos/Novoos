@@ -9,6 +9,25 @@ $NOVO will also be changing the way individuals socialize online, the Novoos pro
 
 Additionally, the ecosystem will initially consist of several components to compile true freedom and secure platforms which combine unique and essential modules as the driving force for $NOVO with continuous growth.
 
+# Connect with Novoos
+
+## Website
+
+🌍 **[Website](https://novoos.net)**
+
+## Social Links
+
+Below are the only official links for Novoos, please be vigilant of fraud and protect yourself by acquiring our links from trusted sources here:
+
+🐦 **[Twitter](https://twitter.com/Novotoken)**
+🎮 **[Discord](https://discord.gg/DMQTP4fjEe)**
+📖 **[Medium](https://novoos.medium.com/)**
+📱 **[Telegram](https://t.me/novoosecosystem)**
+📢 **[Telegram Channel](https://t.me/Novoosannouncements)**
+🧭 **[Facebook](https://facebook.com/NovoosToken)**
+🎥 **[YouTube](https://www.youtube.com/channel/UCqzL-TJnnyjcUF8Fk03XH3w)**
+🔖 **[Reddit](https://www.reddit.com/user/NovoosToken)**
+
 
 <!--
 **Novoos/Novoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
