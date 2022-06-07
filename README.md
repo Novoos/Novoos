@@ -1,7 +1,7 @@
 # Novoos Ecosystem
 
 ## About
-Novoos is releasing several Branches within its ecosystem, the first is [NovoPad](https://docs.novoos.net/novopad/next-gen-launchpad), the next generation of launchpads.
+Novoos is releasing several Branches within its ecosystem, the first is **[NovoPad](https://docs.novoos.net/novopad/next-gen-launchpad)**, the next generation of launchpads.
 
 $NOVO will also be changing the way individuals socialize online, the Novoos project enables users to protect their own data and prevent unwanted privacy breaches from any large or small entity.
 
