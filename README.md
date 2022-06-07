@@ -45,6 +45,15 @@ partnerships@novoos.net
 
 team@novoos.net
 
+# dApps Live
+
+**[BUSD Rewards Dashboard](https://busd.novoos.net)**
+
+**[Stake Dashboard](https://stake.novoos.net)**
+
+**[Novoos Jackpot](https://stake.novoos.net)**
+
+**[wNOVO - Wrapping](https://stake.novoos.net)**
 
 <!--
 **Novoos/Novoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
