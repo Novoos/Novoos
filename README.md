@@ -19,7 +19,7 @@ Additionally, the ecosystem will initially consist of several components to comp
 
 **[wNOVO - Wrapping](https://stake.novoos.net)**
 
-*NovoPad* - **[Learn More](https://docs.novoos.net/novopad/next-gen-launchpad)**
+*NovoPad* - Pending Public Realease **[Learn More](https://docs.novoos.net/novopad/next-gen-launchpad)**
 
 >  Version 1.0 of NovoPad will be released in June
 
