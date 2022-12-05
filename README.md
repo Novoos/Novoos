@@ -17,7 +17,7 @@ Additionally, the ecosystem will initially consist of several components to comp
 
 **[Novoos Jackpot](https://stake.novoos.net)**
 
-**[wNOVO - Wrapping](https://stake.novoos.net)**
+**[$wNOVO - Wrapping](https://stake.novoos.net)**
 
 *NovoPad* - Pending Public Realease **[Learn More](https://docs.novoos.net/novopad/next-gen-launchpad)**
 
